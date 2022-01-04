@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\upndr\Desktop\study\patterns\webometrix\cpp\</FILEPATH>
+      <FILENAME>ScholarIndicator.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "ScholarIndicator::value" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>ScholarIndicator::{ctor}</FUNCTION>
+    <DECORATED>??0ScholarIndicator@@QEAA@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>ScholarIndicator::value</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\upndr\Desktop\study\patterns\webometrix\cpp\</FILEPATH>
+      <FILENAME>ScholarIndicator.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "ScholarIndicator::totalDocsCount" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>ScholarIndicator::{ctor}</FUNCTION>
+    <DECORATED>??0ScholarIndicator@@QEAA@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>ScholarIndicator::totalDocsCount</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

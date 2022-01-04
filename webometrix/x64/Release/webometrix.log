@@ -1,0 +1,64 @@
+﻿  Indicators.cpp
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\SizeState.h(11,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\SizeState.h(11,12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\SizeState.h(11,24): error C2238: непредвиденные лексемы перед ";"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\ScholarState.h(11,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\ScholarState.h(11,12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\ScholarState.h(11,24): error C2238: непредвиденные лексемы перед ";"
+C:\Users\upndr\Desktop\study\patterns\webometrix\headers\ISite.h(13,23): error C2061: синтаксическая ошибка: идентификатор "Indicators"
+C:\Users\upndr\Desktop\study\patterns\webometrix\headers\Site.h(24,23): error C2061: синтаксическая ошибка: идентификатор "Indicators"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(11,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(11,12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(11,24): error C2238: непредвиденные лексемы перед ";"
+  main.cpp
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\SizeState.h(11,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\SizeState.h(11,12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\SizeState.h(11,24): error C2238: непредвиденные лексемы перед ";"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\ScholarState.h(11,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\ScholarState.h(11,12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\ScholarState.h(11,24): error C2238: непредвиденные лексемы перед ";"
+C:\Users\upndr\Desktop\study\patterns\webometrix\headers\ISite.h(13,23): error C2061: синтаксическая ошибка: идентификатор "Indicators"
+C:\Users\upndr\Desktop\study\patterns\webometrix\headers\Site.h(24,23): error C2061: синтаксическая ошибка: идентификатор "Indicators"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(11,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(11,12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(11,24): error C2238: непредвиденные лексемы перед ";"
+C:\Users\upndr\Desktop\study\patterns\webometrix\cpp\main.cpp(14): error C2259: "SiteProxy": невозможно создать экземпляр абстрактного класса
+C:\Users\upndr\Desktop\study\patterns\webometrix\headers\SiteProxy.h(16): message : см. объявление "SiteProxy"
+C:\Users\upndr\Desktop\study\patterns\webometrix\cpp\main.cpp(14): message : из-за следующих членов:
+C:\Users\upndr\Desktop\study\patterns\webometrix\cpp\main.cpp(14): message : void ISite::setRank(void): абстрактный
+C:\Users\upndr\Desktop\study\patterns\webometrix\headers\ISite.h(13): message : см. объявление "ISite::setRank"
+C:\Users\upndr\Desktop\study\patterns\webometrix\cpp\main.cpp(14,36): error C2259: "SiteProxy": невозможно создать экземпляр абстрактного класса
+C:\Users\upndr\Desktop\study\patterns\webometrix\headers\SiteProxy.h(16): message : см. объявление "SiteProxy"
+C:\Users\upndr\Desktop\study\patterns\webometrix\cpp\main.cpp(14,36): message : из-за следующих членов:
+C:\Users\upndr\Desktop\study\patterns\webometrix\cpp\main.cpp(14,36): message : void ISite::setRank(void): абстрактный
+C:\Users\upndr\Desktop\study\patterns\webometrix\headers\ISite.h(13): message : см. объявление "ISite::setRank"
+  RichIndicator.cpp
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\SizeState.h(11,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\SizeState.h(11,12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\SizeState.h(11,24): error C2238: непредвиденные лексемы перед ";"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\ScholarState.h(11,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\ScholarState.h(11,12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\ScholarState.h(11,24): error C2238: непредвиденные лексемы перед ";"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(10,15): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(10,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(10,26): error C2238: непредвиденные лексемы перед ";"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(11,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(11,12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(11,24): error C2238: непредвиденные лексемы перед ";"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(13,15): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(13,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(13,34): error C2238: непредвиденные лексемы перед ";"
+C:\Users\upndr\Desktop\study\patterns\webometrix\headers\Indicators.h(23,18): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\upndr\Desktop\study\patterns\webometrix\headers\Indicators.h(23,18): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\upndr\Desktop\study\patterns\webometrix\headers\Indicators.h(23,33): error C2238: непредвиденные лексемы перед ";"
+  Site.cpp
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\SizeState.h(11,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\SizeState.h(11,12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\SizeState.h(11,24): error C2238: непредвиденные лексемы перед ";"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\ScholarState.h(11,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\ScholarState.h(11,12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\ScholarState.h(11,24): error C2238: непредвиденные лексемы перед ";"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(11,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(11,12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\upndr\Desktop\study\patterns\webometrix\webometrix\RichState.h(11,24): error C2238: непредвиденные лексемы перед ";"
+  SiteProxy.cpp

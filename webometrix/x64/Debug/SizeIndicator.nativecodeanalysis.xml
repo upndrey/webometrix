@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\upndr\Desktop\study\patterns\webometrix\cpp\</FILEPATH>
+      <FILENAME>SizeIndicator.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "SizeIndicator::value" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>SizeIndicator::{ctor}</FUNCTION>
+    <DECORATED>??0SizeIndicator@@QEAA@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>SizeIndicator::value</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\upndr\Desktop\study\patterns\webometrix\cpp\</FILEPATH>
+      <FILENAME>SizeIndicator.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "SizeIndicator::totalPagesCount" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>SizeIndicator::{ctor}</FUNCTION>
+    <DECORATED>??0SizeIndicator@@QEAA@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>SizeIndicator::totalPagesCount</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

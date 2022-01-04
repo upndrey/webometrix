@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\upndr\Desktop\study\patterns\webometrix\cpp\</FILEPATH>
+      <FILENAME>VisibilityIndicator.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "VisibilityIndicator::linksCount" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>VisibilityIndicator::{ctor}</FUNCTION>
+    <DECORATED>??0VisibilityIndicator@@QEAA@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>VisibilityIndicator::linksCount</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\upndr\Desktop\study\patterns\webometrix\cpp\</FILEPATH>
+      <FILENAME>VisibilityIndicator.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "VisibilityIndicator::value" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>VisibilityIndicator::{ctor}</FUNCTION>
+    <DECORATED>??0VisibilityIndicator@@QEAA@XZ</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>VisibilityIndicator::value</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
